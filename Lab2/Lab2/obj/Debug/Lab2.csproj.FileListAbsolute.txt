@@ -1,8 +1,0 @@
-G:\Code\dotNET\Lab2\Lab2\bin\Debug\Lab2.exe.config
-G:\Code\dotNET\Lab2\Lab2\bin\Debug\Lab2.exe
-G:\Code\dotNET\Lab2\Lab2\bin\Debug\Lab2.pdb
-G:\Code\dotNET\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
-G:\Code\dotNET\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
-G:\Code\dotNET\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
-G:\Code\dotNET\Lab2\Lab2\obj\Debug\Lab2.exe
-G:\Code\dotNET\Lab2\Lab2\obj\Debug\Lab2.pdb
