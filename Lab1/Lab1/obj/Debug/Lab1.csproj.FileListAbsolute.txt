@@ -1,0 +1,22 @@
+c:\users\jarde\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Lab1.exe.config
+c:\users\jarde\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Lab1.exe
+c:\users\jarde\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Lab1.pdb
+c:\users\jarde\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+c:\users\jarde\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.exe
+c:\users\jarde\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Jarde\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Database1.mdf
+C:\Users\Jarde\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Database1_log.ldf
+C:\Users\Jarde\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Database2.mdf
+C:\Users\Jarde\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Database2_log.ldf
+G:\Code\dotNET\Lab1\Lab1\bin\Debug\Lab1.exe.config
+G:\Code\dotNET\Lab1\Lab1\obj\Debug\Lab1.exe
+G:\Code\dotNET\Lab1\Lab1\obj\Debug\Lab1.pdb
+G:\Code\dotNET\Lab1\Lab1\bin\Debug\Database1.mdf
+G:\Code\dotNET\Lab1\Lab1\bin\Debug\Database1_log.ldf
+G:\Code\dotNET\Lab1\Lab1\bin\Debug\Database2.mdf
+G:\Code\dotNET\Lab1\Lab1\bin\Debug\Database2_log.ldf
+G:\Code\dotNET\Lab1\Lab1\bin\Debug\Lab1.exe
+G:\Code\dotNET\Lab1\Lab1\bin\Debug\Lab1.pdb
+G:\Code\dotNET\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+G:\Code\dotNET\Lab1\Lab1\bin\Debug\Database3.mdf
+G:\Code\dotNET\Lab1\Lab1\bin\Debug\Database3_log.ldf

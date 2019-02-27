@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Jarde\\Documents\\visual studio 2015\\Projects\\Lab1\\Lab1\\Lab1.csproj",
+  "TargetFramework": "v4.5.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+G:\Code\dotNET\Forms1\Forms1\bin\Debug\Forms1.exe.config
+G:\Code\dotNET\Forms1\Forms1\bin\Debug\Forms1.exe
+G:\Code\dotNET\Forms1\Forms1\bin\Debug\Forms1.pdb
+G:\Code\dotNET\Forms1\Forms1\obj\Debug\Forms1.csprojResolveAssemblyReference.cache
+G:\Code\dotNET\Forms1\Forms1\obj\Debug\Forms1.Properties.Resources.resources
+G:\Code\dotNET\Forms1\Forms1\obj\Debug\Forms1.csproj.GenerateResource.Cache
+G:\Code\dotNET\Forms1\Forms1\obj\Debug\Forms1.exe
+G:\Code\dotNET\Forms1\Forms1\obj\Debug\Forms1.pdb
+G:\Code\dotNET\Forms1\Forms1\obj\Debug\Forms1.frmLogin.resources
+G:\Code\dotNET\Forms1\Forms1\obj\Debug\Forms1.Form2.resources
