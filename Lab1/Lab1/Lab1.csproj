@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Lab1.ConnectedDemo</StartupObject>
+    <StartupObject>Lab1.TempDegrees</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

@@ -8,3 +8,4 @@ G:\Code\dotNET\Forms1\Forms1\obj\Debug\Forms1.exe
 G:\Code\dotNET\Forms1\Forms1\obj\Debug\Forms1.pdb
 G:\Code\dotNET\Forms1\Forms1\obj\Debug\Forms1.frmLogin.resources
 G:\Code\dotNET\Forms1\Forms1\obj\Debug\Forms1.Form2.resources
+G:\Code\dotNET\Forms1\Forms1\obj\Debug\Forms1.Form3.resources
